@@ -7,7 +7,7 @@ incident response playbooks, and automation scripts.
 ## Current Progress
 - [x] Google Cybersecurity Certificate — Course 1: Foundations
 - [x] Course 2: Managing Security Risks
-- [ ] Course 3: Networks and Network Security
+- [x] Course 3: Networks and Network Security
 - [ ] Course 4: Linux and SQL
 - [ ] Course 5: Assets, Threats and Vulnerabilities
 - [ ] Course 6: Detection and Response
