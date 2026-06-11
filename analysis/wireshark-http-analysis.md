@@ -89,6 +89,6 @@ Monitor for anomalous SYN patterns as early indicator
 of network reconnaissance.
 
 ## Screenshots
-![HTTP Filter](wireshark-filter-http.png)
-![HTTP Headers Expanded](wireshark-http-headers.png)
-![SYN Filter](wireshark-filter-syn.png)
+![HTTP Filter](wireshark-filter-http.png.png)
+![HTTP Headers Expanded](wireshark-http-headers.png.png)
+![SYN Filter](wireshark-filter-syn.png.png)
